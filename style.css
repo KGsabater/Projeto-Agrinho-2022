@@ -1,0 +1,50 @@
+#menu{
+	margin-left: 15px;
+	background: url(floresta.jpeg);
+}
+
+#kgs{
+	width: 20%;
+	vertical-align: left;
+	margin-left: 30px;
+}
+
+
+h1{
+	font-size: 50px;
+	color: darkblue;
+	margin-left: 30px;
+}
+
+#principal{
+	background: darkgray;
+	font-size: 20px;
+	text-align: center;
+}
+
+p{
+	font-size: 32px;
+}
+
+.principal{
+	margin-right: 150px;
+	margin-left: 150px;
+}
+
+#pensamento{
+	width: 25%;
+}
+
+#desmatamento{
+	width: 60%;
+}
+
+#reflorestamento{
+	width: 60%;
+}
+
+#natura{
+	color: black;
+	font-size: 20px;
+}
+
